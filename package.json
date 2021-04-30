@@ -1,0 +1,14 @@
+{
+  "name": "node-bruh-moment",
+  "version": "0.0.1",
+  "description": "A npm.js package that returns \"Bruh Moment\"",
+  "main": "bruhmoment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "verbxtim",
+  "license": "ISC",
+  "bin": {
+    "bruh": "./bruhmoment.js"
+  }
+}
