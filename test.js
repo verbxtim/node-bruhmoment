@@ -1,1 +1,4 @@
- require('./bruhmoment.js');
+function bruh() {
+  require('bruhmoment');
+}
+bruh()
